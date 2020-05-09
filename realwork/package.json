@@ -1,0 +1,19 @@
+{
+  "name": "realwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app01.js",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "titbit": "^20.5.51",
+    "titbit-loader": "^20.5.21",
+    "wangeditor": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
